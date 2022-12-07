@@ -1,0 +1,11 @@
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\bin\Debug\Week12Project.exe.config
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\bin\Debug\Week12Project.exe
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\bin\Debug\Week12Project.pdb
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.csproj.AssemblyReference.cache
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.Form1.resources
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.Properties.Resources.resources
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.csproj.GenerateResource.cache
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.csproj.CoreCompileInputs.cache
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.exe
+C:\Users\sirdr\source\repos\Week12Solution\Week12Project\obj\Debug\Week12Project.pdb
